@@ -1,0 +1,2 @@
+admission_no,roll_no,admission_date(dd-mm-yyyy),firstname,lastname,mobileno,email,state,city,pincode,religion,dob(dd-mm-yyyy),current_address,permanent_address,bank_account_no,bank_name,ifsc_code,guardian_name,guardian_relation,guardian_phone,guardian_address
+12,133,12/6/2018,dsff,ffdf,3323333332,rakesh@gmail.com,maha,mum,400155,,12/6/2018,,,,,,,,,
